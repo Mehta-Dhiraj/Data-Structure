@@ -1,4 +1,4 @@
-
+package com.queue;
 public class Queue {
 
 	private int size = 5;
